@@ -17,7 +17,7 @@ List of companies with summer internship program for university student who purs
 |**Uber**| [Co-op Data analyst (summer)](https://www.uber.com/ko-US/careers/list/42816/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |[ ]|
 | |[Co-op Software engineering (summer)](https://www.uber.com/ko-US/careers/list/41577/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 |**Facebook**| [FBU for enginnering (summer)](https://www.uber.com/ko-US/careers/list/41577/)|SF|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
-|**Google**| [Engineering Practicum (summer)](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018&) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Working, due Oct 29]|
+|**Google**| [Engineering Practicum (summer)](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018&) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.google.com/about/careers/applications/u/0/)|
 |**Microsoft**| [Explore Microsoft (summer)](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program?rt=university) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)|[ ]|
 |**Samsung**|X|X|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 | |[Research Intern](https://www.sra.samsung.com/)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
@@ -71,3 +71,4 @@ List of companies with summer internship program for university student who purs
 | |[Engineering Internships](https://jobs.boeing.com/search-jobs/summer%202019/185/1)|WA|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 |**Ford**|[Information Technology](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=searchResults&SearchType=linkquery&LinkID=3974233#jobDetails=429288_5311)|Dearbon|![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1-orange.svg)|[ ]|
 |**GE**|["Digital Technology Intern](https://talent.gecareers.com/digital/position/digital-technology-intern-united-states)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
+

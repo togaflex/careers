@@ -12,7 +12,7 @@ List of companies with summer internship program for university student who purs
 ## Tech & Software Company
 | Name | Title | Location | Description Tag | Status |
 |---|---|---|---|---|
-|**Amazon**| [Future Engineer (summer)](https://www.amazon.jobs/en/landing_pages/amazonfutureengineer) | Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/duration-12%20weeks-blue.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |Unknown|
+|**Amazon**| [Future Engineer (summer)](https://www.amazon.jobs/en/landing_pages/amazonfutureengineer) | Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/duration-12%20weeks-blue.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.amazonuniversity.jobs/dashboard)|
 |**AirBnB**|[Software Engineer (summer)](https://www.airbnb.com/careers/departments/position/1280332)| SF / Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |[ ]|
 |**Uber**| [Co-op Data analyst (summer)](https://www.uber.com/ko-US/careers/list/42816/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |[ ]|
 | |[Co-op Software engineering (summer)](https://www.uber.com/ko-US/careers/list/41577/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|

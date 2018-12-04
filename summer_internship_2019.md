@@ -16,7 +16,7 @@ List of companies with summer internship program for university student who purs
 |**AirBnB**|[Software Engineer (summer)](https://www.airbnb.com/careers/departments/position/1280332)| SF / Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |[ ]|
 |**Uber**| [Co-op Data analyst (summer)](https://www.uber.com/ko-US/careers/list/42816/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |[ ]|
 | |[Co-op Software engineering (summer)](https://www.uber.com/ko-US/careers/list/41577/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
-|**Facebook**| [FBU for enginnering (summer)](https://www.facebook.com/careers/FBUEngineering)|SF|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
+|**Facebook**| [FBU for enginnering (summer)](https://www.facebook.com/careers/FBUEngineering)|SF|![.](https://img.shields.io/badge/status-close-red.svg)|[Submitted](https://www.facebook.com/careers/program/FBUEngineering/apply/)|
 |**Google**| [Engineering Practicum (summer)](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018&) |*| ![.](https://img.shields.io/badge/status-close-red.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.google.com/about/careers/applications/u/0/)|
 |**Microsoft**| [Explore Microsoft (summer)](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program?rt=university) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)|[ ]|
 |**Samsung**|X|X|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|

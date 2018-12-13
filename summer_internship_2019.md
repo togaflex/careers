@@ -14,9 +14,7 @@ List of companies with summer internship program for university student who purs
 |---|---|---|---|---|
 |**Amazon**| [Future Engineer (summer)](https://www.amazon.jobs/en/landing_pages/amazonfutureengineer) | Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/duration-12%20weeks-blue.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.amazonuniversity.jobs/dashboard)|
 |**AirBnB**|[Software Engineer (summer)](https://www.airbnb.com/careers/university?gh_src=)| SF / Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |Submitted|
-
 |**Uber**| [UberSTAR Program 2019](https://careersinfo.uber.com/university)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)|Submitted|
-
 |**Facebook**| [FBU for enginnering (summer)](https://www.facebook.com/careers/FBUEngineering)|SF|![.](https://img.shields.io/badge/status-close-red.svg)|[Submitted](https://www.facebook.com/careers/program/FBUEngineering/apply/)|
 |**Google**| [Engineering Practicum (summer)](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018&) |*| ![.](https://img.shields.io/badge/status-close-red.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.google.com/about/careers/applications/u/0/)|
 |**Microsoft**| [Explore Microsoft (summer)](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program?rt=university) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)|Submitted|

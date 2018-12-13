@@ -69,6 +69,6 @@ List of companies with summer internship program for university student who purs
 |**Tesla**|[Software Engineering (summer 2019)](https://www.tesla.com/careers/job/software-engineering-backendfrontendui-internship-co-opsummer2019-37973)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 |**Boeing**|[Data Science & Analyst](https://jobs.boeing.com/search-jobs/summer%202019/185/1)|WA|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 | |[Engineering Internships](https://jobs.boeing.com/search-jobs/summer%202019/185/1)|WA|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
-|**Ford**|[Information Technology](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=searchResults&SearchType=linkquery&LinkID=3974233#jobDetails=429288_5311)|Dearbon|![.] (https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1-orange.svg)|[X SPONSOR]|
+|**Ford**|[Information Technology](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=searchResults&SearchType=linkquery&LinkID=3974233#jobDetails=429288_5311)|Dearbon|![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1-orange.svg)|[X SPONSOR]|
 |**GE**|["Digital Technology Intern](https://talent.gecareers.com/digital/position/digital-technology-intern-united-states)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 

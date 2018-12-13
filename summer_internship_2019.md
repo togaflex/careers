@@ -18,7 +18,7 @@ List of companies with summer internship program for university student who purs
 | |[Co-op Software engineering (summer)](https://www.uber.com/ko-US/careers/list/41577/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 |**Facebook**| [FBU for enginnering (summer)](https://www.facebook.com/careers/FBUEngineering)|SF|![.](https://img.shields.io/badge/status-close-red.svg)|[Submitted](https://www.facebook.com/careers/program/FBUEngineering/apply/)|
 |**Google**| [Engineering Practicum (summer)](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018&) |*| ![.](https://img.shields.io/badge/status-close-red.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.google.com/about/careers/applications/u/0/)|
-|**Microsoft**| [Explore Microsoft (summer)](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program?rt=university) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)|[ ]|
+|**Microsoft**| [Explore Microsoft (summer)](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program?rt=university) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)|[Submitted]|
 |**Samsung**|X|X|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 | |[Research Intern](https://www.sra.samsung.com/)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**Apple**| [Summer Intern](https://www.apple.com/jobs/us/maintenance.html)|?|![.](https://img.shields.io/badge/status-close-red.svg) |[ ]|
@@ -28,7 +28,7 @@ List of companies with summer internship program for university student who purs
 |**Twitter**|?|?|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**Paypal**|[Full-time](https://www.paypal.com/fk/webapps/mpp/jobs/students-and-grads/undergraduate-internships-close)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 |**Github**|[Summer internships](https://github.com/about/careers#internships)|CA|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
-|**Dropbox**|[Software Engineer Intern (Summer 2019)](https://www.dropbox.com/jobs/listing/1244792)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
+|**Dropbox**|[Software Engineer Intern (Summer 2019)](https://www.dropbox.com/jobs/listing/1244792)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[Submitted(US,TELAVIV)]|
 |**SAP**|[?](https://www.sap.com/about/careers/university-programs.html)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**Slack**|[Devloper/Data Science](https://slack.com/careers/university-recruiting#openings)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 |**SAP**|[Technical Summer Internship](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|

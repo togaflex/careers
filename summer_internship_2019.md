@@ -32,7 +32,7 @@ List of companies with summer internship program for university student who purs
 | |[Software Engineer Intern (Summer 2019) Tel Aviv](https://www.dropbox.com/jobs/listing/1244792)|TEL AVIV|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|Submitted|
 |**SAP**|[?](https://www.sap.com/about/careers/university-programs.html)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**Slack**|[Devloper/Data Science](https://slack.com/careers/university-recruiting#openings)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
-|**SAS**|[Technical Summer Internship](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)|US|![.]![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|X SPONSOR|
+|**SAS**|[Technical Summer Internship](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|X SPONSOR|
 | |[Analyst Summer Internship](https://careers-sas.icims.com/jobs/14946/analytical-summer-intern-program-2019/job?hub=9&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**LG CNS**|Freshman Internship (?)|?|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**Adobe**||||[ ]|
@@ -52,7 +52,7 @@ List of companies with summer internship program for university student who purs
 |---|---|---|---|---|
 |**Bloomberg**|[2019 Software Engineer - Summer Internship](https://careers.bloomberg.com/job/detail/70146)|London|![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y2,Y3,Y4-orange.svg) |[ ]|
 | |[2019 Software Engineer Intern](https://careers.bloomberg.com/job/detail/68834?el=Internships)|NY|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
-|**JP Morgan**|[2019 Software Engineer Intern](https://careers.jpmorgan.com/careers/US/en/programs/freshman-experience)|?|![.](https://img.shields.io/badge/status-close-red.svg) ![.](https://img.shields.io/badge/eligible-Y1-orange.svg)|[ ]|
+|**JP Morgan**|[2019 Software Engineer Intern](https://careers.jpmorgan.com/careers/US/en/programs/freshman-experience)|?|![.](https://img.shields.io/badge/status-close-red.svg) ![.](https://img.shields.io/badge/eligible-Y1-orange.svg)|Submitted|
 |**Goldman Sachs**|[Summer Analyst Internship](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst.html) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y2-orange.svg)|[ ]|
 |**Morgan Stanley**|[Summer Analyst & Co-op](https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology/spring-summer-fall-co-op-north-america/)|Montreal/NW/Baltimore| ![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 | |[Technology Showcase](https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology/technology-showcase-north-america/)|NW| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2,Y3-orange.svg) |[ ]|

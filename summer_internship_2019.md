@@ -13,7 +13,7 @@ List of companies with summer internship program for university student who purs
 | Name | Title | Location | Description Tag | Status |
 |---|---|---|---|---|
 |**Amazon**| [Future Engineer (summer)](https://www.amazon.jobs/en/landing_pages/amazonfutureengineer) | Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/duration-12%20weeks-blue.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.amazonuniversity.jobs/dashboard)|
-|**AirBnB**|[Software Engineer (summer)](https://www.airbnb.com/careers/departments/position/1280332)| SF / Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |[ ]|
+|**AirBnB**|[Software Engineer (summer)](https://www.airbnb.com/careers/university?gh_src=)| SF / Seattle | ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |Submitted|
 |**Uber**| [Co-op Data analyst (summer)](https://www.uber.com/ko-US/careers/list/42816/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) |[ ]|
 | |[Co-op Software engineering (summer)](https://www.uber.com/ko-US/careers/list/41577/)|SF| ![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
 |**Facebook**| [FBU for enginnering (summer)](https://www.facebook.com/careers/FBUEngineering)|SF|![.](https://img.shields.io/badge/status-close-red.svg)|[Submitted](https://www.facebook.com/careers/program/FBUEngineering/apply/)|

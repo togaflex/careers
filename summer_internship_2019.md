@@ -30,7 +30,7 @@ List of companies with summer internship program for university student who purs
 |**Dropbox**|[Software Engineer Intern (Summer 2019)](https://www.dropbox.com/jobs/listing/1244792)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|Submitted|
 | |[Software Engineer Intern (Summer 2019) Tel Aviv](https://www.dropbox.com/jobs/listing/1244792)|TEL AVIV|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|Submitted|
 |**SAP**|[?](https://www.sap.com/about/careers/university-programs.html)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
-|**Slack**|[Devloper/Data Science](https://slack.com/careers/university-recruiting#openings)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
+|**Slack**|[Devloper/Data Science](https://slack.com/careers/university-recruiting#openings)|US|![.](https://img.shields.io/badge/status-close-red.svg)|[ ]|
 |**SAS**|[Technical Summer Internship](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|X SPONSOR|
 | |[Analyst Summer Internship](https://careers-sas.icims.com/jobs/14946/analytical-summer-intern-program-2019/job?hub=9&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**LG CNS**|Freshman Internship (?)|?|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|

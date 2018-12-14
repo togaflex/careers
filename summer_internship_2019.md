@@ -20,17 +20,17 @@ List of companies with summer internship program for university student who purs
 |**Google**| [Engineering Practicum (summer)](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-1600-amphitheatre-pkwy-mountain-view-ca-4271710018&) |*| ![.](https://img.shields.io/badge/status-close-red.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg) |[Submitted](https://www.google.com/about/careers/applications/u/0/)|
 |**Microsoft**| [Explore Microsoft (summer)](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program?rt=university) |*| ![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)|Submitted|
 |**Samsung**|X|X|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|X|
-|**Apple**| [Summer Intern](https://www.apple.com/jobs/us/maintenance.html)|?|![.](https://img.shields.io/badge/status-close-red.svg) | |
+|**Apple**| [Summer Intern](https://www.apple.com/jobs/us/maintenance.html)|?|![.](https://img.shields.io/badge/status-close-red.svg) |X|
 |**Intel**| [IRISE](https://www.intel.com/content/www/us/en/support/articles/000022539/programs.html) |?| ![.](https://img.shields.io/badge/status-permenant%20close-lightgrey.svg) ![.](https://img.shields.io/badge/eligible-Y1,Y2-orange.svg)| |
 |**Salesforce**|[Software Engineering summer intern](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg) ![.](https://img.shields.io/badge/eligible-Y2,Y3,Y4-orange.svg)|Submitted|
 |**Spotify**|[Software Engineering](https://www.spotifyjobs.com/job/software-engineering-summer-internship-sweden-o4rx8fwu/)|Sweden|![.](https://img.shields.io/badge/status-close-red.svg)|X|
-|**Twitter**|?|?|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
+|**Twitter**|[Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)|*|![.](https://img.shields.io/badge/status-close-red.svg)|X|
 |**Paypal**|[Full-time](https://www.paypal.com/fk/webapps/mpp/jobs/students-and-grads/undergraduate-internships-close)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|[ ]|
-|**Github**|[Summer internships](https://github.com/about/careers#internships)|CA|![.](https://img.shields.io/badge/status-close-red.svg)|[ ]|
+|**Github**|[Summer internships](https://github.com/about/careers#internships)|CA|![.](https://img.shields.io/badge/status-close-red.svg)|X|
 |**Dropbox**|[Software Engineer Intern (Summer 2019)](https://www.dropbox.com/jobs/listing/1244792)|US|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|Submitted|
 | |[Software Engineer Intern (Summer 2019) Tel Aviv](https://www.dropbox.com/jobs/listing/1244792)|TEL AVIV|![.](https://img.shields.io/badge/status-open-brightgreen.svg)|Submitted|
 |**SAP**|[?](https://www.sap.com/about/careers/university-programs.html)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
-|**Slack**|[Devloper/Data Science](https://slack.com/careers/university-recruiting#openings)|US|![.](https://img.shields.io/badge/status-close-red.svg)|[ ]|
+|**Slack**|[Devloper/Data Science](https://slack.com/careers/university-recruiting#openings)|US|![.](https://img.shields.io/badge/status-close-red.svg)|X|
 |**SAS**|[Technical Summer Internship](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|X SPONSOR|
 | |[Analyst Summer Internship](https://careers-sas.icims.com/jobs/14946/analytical-summer-intern-program-2019/job?hub=9&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|US|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
 |**LG CNS**|Freshman Internship (?)|?|![.](https://img.shields.io/badge/status-unknown-lightgrey.svg)|[ ]|
